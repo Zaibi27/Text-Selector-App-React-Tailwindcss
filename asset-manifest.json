@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Text-Selector-App-React-Tailwindcss/static/css/main.e7d014f3.chunk.css",
-    "main.js": "/Text-Selector-App-React-Tailwindcss/static/js/main.fd3e5dc4.chunk.js",
-    "main.js.map": "/Text-Selector-App-React-Tailwindcss/static/js/main.fd3e5dc4.chunk.js.map",
+    "main.js": "/Text-Selector-App-React-Tailwindcss/static/js/main.538e2e47.chunk.js",
+    "main.js.map": "/Text-Selector-App-React-Tailwindcss/static/js/main.538e2e47.chunk.js.map",
     "runtime-main.js": "/Text-Selector-App-React-Tailwindcss/static/js/runtime-main.ca79873f.js",
     "runtime-main.js.map": "/Text-Selector-App-React-Tailwindcss/static/js/runtime-main.ca79873f.js.map",
     "static/js/2.8a3eac9d.chunk.js": "/Text-Selector-App-React-Tailwindcss/static/js/2.8a3eac9d.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ca79873f.js",
     "static/js/2.8a3eac9d.chunk.js",
     "static/css/main.e7d014f3.chunk.css",
-    "static/js/main.fd3e5dc4.chunk.js"
+    "static/js/main.538e2e47.chunk.js"
   ]
 }
