@@ -1,0 +1,41 @@
+.button {
+    font-size: x-large; 
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    border-radius: 50%;
+    color: white;
+    outline: none;
+    outline-width: 0;
+    border: none;
+    background-color: rgb(190, 48, 48);
+    
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+   
+}
+.button:hover{
+  background-color: #3a202b;
+  box-shadow: 0px 15px 20px rgba(229, 113, 46, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.dialog-box{
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    background-color: #3a202bc4;
+    color: white;
+    font-size: 2rem;
+    padding: 15px;
+    border-radius: 5px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    justify-content: center;
+   
+}
