@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/Text-Selector-App-React-Tailwindcss/static/css/main.e7d014f3.chunk.css",
-    "main.js": "/Text-Selector-App-React-Tailwindcss/static/js/main.538e2e47.chunk.js",
-    "main.js.map": "/Text-Selector-App-React-Tailwindcss/static/js/main.538e2e47.chunk.js.map",
-    "runtime-main.js": "/Text-Selector-App-React-Tailwindcss/static/js/runtime-main.ca79873f.js",
-    "runtime-main.js.map": "/Text-Selector-App-React-Tailwindcss/static/js/runtime-main.ca79873f.js.map",
-    "static/js/2.8a3eac9d.chunk.js": "/Text-Selector-App-React-Tailwindcss/static/js/2.8a3eac9d.chunk.js",
-    "static/js/2.8a3eac9d.chunk.js.map": "/Text-Selector-App-React-Tailwindcss/static/js/2.8a3eac9d.chunk.js.map",
-    "static/js/3.8d40d2e6.chunk.js": "/Text-Selector-App-React-Tailwindcss/static/js/3.8d40d2e6.chunk.js",
-    "static/js/3.8d40d2e6.chunk.js.map": "/Text-Selector-App-React-Tailwindcss/static/js/3.8d40d2e6.chunk.js.map",
+    "main.css": "/Text-Selector-App-React-Tailwindcss/static/css/main.2df729bb.chunk.css",
+    "main.js": "/Text-Selector-App-React-Tailwindcss/static/js/main.827f9ab1.chunk.js",
+    "main.js.map": "/Text-Selector-App-React-Tailwindcss/static/js/main.827f9ab1.chunk.js.map",
+    "runtime-main.js": "/Text-Selector-App-React-Tailwindcss/static/js/runtime-main.49d6dd52.js",
+    "runtime-main.js.map": "/Text-Selector-App-React-Tailwindcss/static/js/runtime-main.49d6dd52.js.map",
+    "static/js/2.41fd632f.chunk.js": "/Text-Selector-App-React-Tailwindcss/static/js/2.41fd632f.chunk.js",
+    "static/js/2.41fd632f.chunk.js.map": "/Text-Selector-App-React-Tailwindcss/static/js/2.41fd632f.chunk.js.map",
+    "static/js/3.bfe22d41.chunk.js": "/Text-Selector-App-React-Tailwindcss/static/js/3.bfe22d41.chunk.js",
+    "static/js/3.bfe22d41.chunk.js.map": "/Text-Selector-App-React-Tailwindcss/static/js/3.bfe22d41.chunk.js.map",
     "index.html": "/Text-Selector-App-React-Tailwindcss/index.html",
-    "static/css/main.e7d014f3.chunk.css.map": "/Text-Selector-App-React-Tailwindcss/static/css/main.e7d014f3.chunk.css.map",
-    "static/js/2.8a3eac9d.chunk.js.LICENSE.txt": "/Text-Selector-App-React-Tailwindcss/static/js/2.8a3eac9d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Text-Selector-App-React-Tailwindcss/static/media/logo.6ce24c58.svg"
+    "static/css/main.2df729bb.chunk.css.map": "/Text-Selector-App-React-Tailwindcss/static/css/main.2df729bb.chunk.css.map",
+    "static/js/2.41fd632f.chunk.js.LICENSE.txt": "/Text-Selector-App-React-Tailwindcss/static/js/2.41fd632f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca79873f.js",
-    "static/js/2.8a3eac9d.chunk.js",
-    "static/css/main.e7d014f3.chunk.css",
-    "static/js/main.538e2e47.chunk.js"
+    "static/js/runtime-main.49d6dd52.js",
+    "static/js/2.41fd632f.chunk.js",
+    "static/css/main.2df729bb.chunk.css",
+    "static/js/main.827f9ab1.chunk.js"
   ]
 }
